@@ -1,1 +1,0 @@
-# summitos-calamares-config
