@@ -1,0 +1,30 @@
+- name: "Accessories"
+  description: "Accessories"
+  critical: false
+  hidden: false
+  selected: false
+  expanded: true
+  packages:
+    - cheese
+    - flameshot-git
+    - liferea
+    - mediainfo-gui
+    - mcomix
+    - pdfarranger
+- name: "Git"
+  description: "Git"
+  critical: false
+  hidden: false
+  selected: false
+  expanded: true
+  packages:
+    - git
+- name: "Games"
+  description: "Install to play games (Steam, minecraft, (Other soon...))"
+  critical: false
+  hidden: false
+  selected: false
+  expanded: true
+  packages:
+    - steam
+    - minecraft-launcher
